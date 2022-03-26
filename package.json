@@ -21,7 +21,7 @@
     "gulp": "^4.0.0",
     "gulplog": "^1.0.0",
     "html-entities": "^1.2.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mississippi": "^4.0.0",
     "moment": "^2.22.2",
     "progress": "^2.0.1",
