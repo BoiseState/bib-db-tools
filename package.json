@@ -23,7 +23,7 @@
     "html-entities": "^1.2.1",
     "minimist": "^1.2.5",
     "mississippi": "^4.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "progress": "^2.0.1",
     "promise-limit": "^2.7.0",
     "request": "^2.88.0",
